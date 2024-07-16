@@ -1,5 +1,5 @@
 # Capstone-1 Program CRUD 
-Program python ini merupakan program yang dirancang untuk mengelola data mobil rental secara efisien. Aplikasi ini menyediakan fungsi yaitu CRUD (Create, Read, Update, Delete), yang memungkinkan pengguna dengan mudah untuk menampilkan daftar mobil, menambah mobil baru, memperbarui informasi mobil, dan menghapus data mobil dari daftar.
+Program python ini merupakan program yang dirancang untuk mengelola data mobil rental secara efisien. Aplikasi ini menyediakan fungsi yaitu CRUD (Create, Read, Update, Delete), yang memungkinkan pengguna dengan mudah untuk menampilkan daftar mobil, menambah mobil baru, memperbarui informasi mobil, dan menghapus data mobil.
 
 **Create**: Menambahkan data mobil baru ke dalam sistem, termasuk detail seperti merk, tipe, seats, nomor plat,  bahan bakar, transmisi, status, dan harga sewa per hari.
 **Read**: Menampilkan data mobil dengan fitur untuk menampilkan mobil berdasarkan jenis transmisi, dan rentang harga.
