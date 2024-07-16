@@ -9,5 +9,5 @@ Program python ini merupakan program yang dirancang untuk mengelola data mobil r
 
 Dengan adanya program ini tentunya berguna untuk bisnis rental mobil atau individu yang mengelola armada kendaraan, menyediakan cara yang sederhana dan efektif untuk mengelola dan mengetahui informasi mobil.
 
-Program ini dibuat sebagai hasil pembelajaran pada dasar bahasa pemrograman Python, jika ada pertanyaan soal aplikasi ini, terdapat error atau bug, dan ada saran atau masukan yang ingin disampaikan saya akan menerimanya dengan senang hati. Anda bisa menghubungi saya memalui email berikut nuurmuhilham@gmail.com. 
+Program ini dibuat sebagai hasil pembelajaran pada dasar bahasa pemrograman python, jika terdapat pertanyaan mengenai program ini, terdapat error atau bug, dan ada saran atau masukan yang ingin disampaikan saya akan menerimanya dengan senang hati. Anda bisa menghubungi saya memalui email berikut nuurmuhilham@gmail.com. 
 Terima Kasih.
