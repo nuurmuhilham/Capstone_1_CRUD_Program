@@ -1,9 +1,12 @@
 # Capstone-1 Program CRUD 
-This Python program is designed to manage car rental data efficiently. It provides CRUD (Create, Read, Update, Delete) functionality, allowing stakeholders to easily manage car information. The program offers the following features:
+Program python ini merupakan program yang dirancang untuk mengelola data mobil rental secara efisien. Aplikasi ini menyediakan fungsi yaitu CRUD (Create, Read, Update, Delete), yang memungkinkan pengguna dengan mudah untuk menampilkan daftar mobil, menambah mobil baru, memperbarui informasi mobil, dan menghapus mobil dari daftar.
 
-Create: Add new car data to the system, including details such as car number, model, year, and rental price.
-Read: View car data with the ability to sort and filter by car number for even and odd numbers. 
-Update: Modify existing car data, such as changing rental prices or updating car information.
-Delete: Remove car data from the system.
+**Create**: Menambahkan data mobil baru ke dalam sistem, termasuk detail seperti merk, tipe, seats, nomor plat,  bahan bakar, transmisi, status, dan harga sewa per hari.
+**Read**: Menampilkan data mobil dengan fitur untuk menampilkan mobil berdasarkan jenis transmisi, dan rentang harga.
+**Update**: Memperbarui informasi data mobil yang ada, seperti mengubah harga sewa atau memperbarui informasi status mobil.
+**Delete**: Menghapus data mobil dari sistem.
 
-This program is useful for car rental businesses or individuals managing a fleet of vehicles, providing a convenient and effective way to manage and track car rental information.
+Dengan adanya program ini tentunya berguna untuk bisnis rental mobil atau individu yang mengelola armada kendaraan, menyediakan cara yang sederhana dan efektif untuk mengelola dan mengetahui informasi mobil.
+
+Program ini merupakan program dibuat untuk pembelajaran pada dasar pemrograman Python, jika ada pertanyaan soal aplikasi ini, jika terdapat error atau bug, dan jika ada saran yang ingin disampaikan saya akan menerimanya dengan senang hari, anda bisa menghubungi saya memalui email berikut nuurmuhilham@gmail.com. 
+Terima Kasih.
